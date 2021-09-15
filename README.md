@@ -12,9 +12,9 @@ However, once a Shadow DOM is introduced, they disappear, as illustrated in my o
 
 # Solutions
 Handling these shadow DOMs came down to 3 options(you can just read about them in Kris's article, cited under [Sources](#SOURCES))
-Option #1 can be found in [`optionNumberOne.html`](/optionNumberOne.html)
-Option #2 can be found in [`optionNumberTwo.html`](/optionNumberTwo.html)
-Option #3 can be found in [`optionNumberThree.html`](/optionNumberThree.html)
+- Option #1 can be found in [`optionNumberOne.html`](/optionNumberOne.html)
+- Option #2 can be found in [`optionNumberTwo.html`](/optionNumberTwo.html)
+- Option #3 can be found in [`optionNumberThree.html`](/optionNumberThree.html)
 
 # SOURCES
 This entire repository is owed to the wonderful article that taught me everything, here:
